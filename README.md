@@ -55,6 +55,6 @@
 | Acima de R$ 300,00 | 15% |
 
 12. `Use o switch/case.` Faça um programa que receba dois números e execute as operações listadas a seguir de acordo com a escolha do usuário. Se for digitada uma opção inválida mostrar mensagem de erro e terminar a execução do programa. As opções são:
-* 1. Média entre os dois números.
-* 2. Diferença do maior pelo menor.
-* 3. O produto entre os dois números.
+* 1 - Média entre os dois números.
+* 2 - Diferença do maior pelo menor.
+* 3 - O produto entre os dois números.
