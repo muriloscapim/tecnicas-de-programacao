@@ -9,8 +9,8 @@
 4. Faça um programa que receba três números e mostre o maior.
 
 5. Faça um programa que receba a altura e o sexo de uma pessoa e que calcule e mostre o seu peso ideal, utilizando as seguintes fórmulas.
-* para homens: (72.7 * h) - 58
-* para mulheres: (62.1 * h) - 44.7
+    * para homens: (72.7 * h) - 58
+    * para mulheres: (62.1 * h) - 44.7
 
 6. Faça um programa que receba a idade de um nadador e mostre a sua categoria usando as regras a seguir:
 
@@ -55,6 +55,6 @@
 | Acima de R$ 300,00 | 15% |
 
 12. `Use o switch/case.` Faça um programa que receba dois números e execute as operações listadas a seguir de acordo com a escolha do usuário. Se for digitada uma opção inválida mostrar mensagem de erro e terminar a execução do programa. As opções são:
-* 1 - Média entre os dois números.
-* 2 - Diferença do maior pelo menor.
-* 3 - O produto entre os dois números.
+    * 1 - Média entre os dois números.
+    * 2 - Diferença do maior pelo menor.
+    * 3 - O produto entre os dois números.
