@@ -13,8 +13,8 @@ int main()
 	scanf("%f",&nota2);
 
 	media = (nota1 + nota2) / 2;
-    
-    // %.1f mostra a média com uma casa decimal
+	
+	// %.1f mostra a média com uma casa decimal
 	printf("Media: %.1f",media);
 	system("pause");
 	return 0;
