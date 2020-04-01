@@ -6,4 +6,4 @@ Para estar apto a doar, o voluntário deve ter idade entre 16 e 69, pesar pelos 
 2. Calcule o Índice de Massa Corpórea (IMC) de uma pessoa, seguindo a fórmula:
 IMC = peso / (altura * altura).
 
-![1](https://lh3.googleusercontent.com/proxy/mrcg3NskI-RA5tbekUd91r7xPIBrvTwOUl8jPsDTDv_cqSXzqCeMna1A-saUV20a8GVxbEiA0HuKGd-U-L036Bm5Eaq3yZUzZnZsvLX9K0DtHTHf3ys6wN3nH1m4dy5FIZxS6HUJibmxtA)
+![unnamed](https://user-images.githubusercontent.com/56240254/78089027-6d0ecb80-739c-11ea-9fc9-3480232ef688.png)
