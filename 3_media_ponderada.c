@@ -1,4 +1,4 @@
-// Calcular a mÃ©dia ponderada
+// Calcular a média ponderada
 #include <stdio.h>
 #include <stdlib.h>
 

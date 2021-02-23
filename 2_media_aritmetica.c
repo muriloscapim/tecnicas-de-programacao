@@ -1,10 +1,10 @@
-// Calcular a mÃ©dia aritmÃ©tica entre dois nÃºmeros
+// Calcular a média aritmética entre dois números
 #include <stdio.h>
 #include <stdlib.h> // system("pause");
 
 int main()
 {
-	// declaraÃ§Ã£o das variÃ¡veis
+	// declaração das variáveis
 	float nota1, nota2, media;
 
 	printf("Digite a primeira nota: ");
@@ -14,7 +14,7 @@ int main()
 
 	media = (nota1 + nota2) / 2;
 	
-	// %.1f mostra a mÃ©dia com uma casa decimal
+	// %.1f mostra a média com uma casa decimal
 	printf("Media: %.1f",media);
 	system("pause");
 	return 0;
